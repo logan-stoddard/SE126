@@ -1,0 +1,19 @@
+Amber,M,4
+Latoya,H,717,Possum
+Andy,H,7,Panda
+Nate,T,13,Cat
+Logan,S,75,Owl
+Dylan,F,32,Fish
+Josh,M,9,Capybara
+Mohammed,M,5,Tiger
+Chris,S,13,Capybara
+Katie,T,7
+Jayden,F,18,Leopard Gecko
+Brandon,M,29,Dog
+David,P,42,Axolotl
+Cleyder,S,11,Dog 
+Josh,I,42,Cat 
+Idrees,A,333,Wolf
+Nick,V,3,Dog 
+Conor,D,73,Dragon
+Aly,W,12,Capybara
